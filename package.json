@@ -2,5 +2,6 @@
     "name": "tiny",
     "version": "1.0.0",
     "description": "Remove all spaces from a string",
+    "author": "Ely Santos",
     "main": "./src/index.js"
 }
